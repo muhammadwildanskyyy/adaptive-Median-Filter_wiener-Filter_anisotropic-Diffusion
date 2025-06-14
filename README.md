@@ -1,29 +1,4 @@
----
-title: "Building Noise Filter, adaptive-Median-Filter-wiener-Filter-anisotropic-Diffusion"
-publishedAt: "2025-05-28"
-summary: "Create adaptive filters (adaptive Median Filter, Wiener Filter, and Anisotropic Diffusion) which will be implemented on three noises (Gaussian Noise, Salt-and-Pepper Noise, and Speckle Noise)."
-images:
-  - "/images/projects/noise-filter/original.png"
-  - "/images/projects/noise-filter/gaussian.png"
-  - "/images/projects/noise-filter/diffusion_gaussian.png"
-  - "/images/projects/noise-filter/median_gaussian.png"
-  - "/images/projects/noise-filter/wiener_gaussian.png"
-  - "/images/projects/noise-filter/saltpepper.png"
-  - "/images/projects/noise-filter/diffusion_saltpepper.png"
-  - "/images/projects/noise-filter/median_saltpepper.png"
-  - "/images/projects/noise-filter/wiener_saltpepper.png"
-  - "/images/projects/noise-filter/speckle.png"
-  - "/images/projects/noise-filter/diffusion_speckle.png"
-  - "/images/projects/noise-filter/median_speckle.png"
-  - "/images/projects/noise-filter/wiener_speckle.png"
 
-team:
-  - name: "Selene Yu"
-    role: "Software Engineer"
-    avatar: "/images/avatar.jpg"
-    linkedIn: "https://www.linkedin.com/company/once-ui/"
-link: "https://github.com/muhammadwildanskyyy/adaptive-Median-Filter_wiener-Filter_anisotropic-Diffusion.git"
----
 
 ## Overview
 
